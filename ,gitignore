@@ -1,0 +1,17 @@
+# Virtual env
+environ/
+*.pyc
+__pycache__/
+
+*.pyo
+*.pyd
+
+*.log
+*.out
+*.tmp
+
+.Python
+env/
+ENV/
+env.bak/
+environ.bak/
